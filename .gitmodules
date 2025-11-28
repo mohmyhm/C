@@ -1,3 +1,6 @@
 [submodule "Thread Synchronization"]
 	path = Thread Synchronization
 	url = https://github.com/mohmyhm/ThreadSynchronization
+[submodule "PintosScheduling"]
+	path = PintosScheduling
+	url = https://github.com/mohmyhm/PintosScheduling
