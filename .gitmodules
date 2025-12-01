@@ -7,3 +7,6 @@
 [submodule "ThreadSynchronization"]
 	path = ThreadSynchronization
 	url = https://github.com/mohmyhm/ThreadSynchronization
+[submodule "TinyFS"]
+	path = TinyFS
+	url = https://github.com/mohmyhm/TinyFS
